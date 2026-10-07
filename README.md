@@ -1,9 +1,11 @@
 # witness
 
+<sub>A <a href="https://halleylabs.dev">Halley</a> project</sub>
+
 **A recording cache for model APIs. You install it to cut inference spend and make crashed runs resumable — the byproduct is a record you can prove things about.**
 
-[![ci](https://github.com/anzal1/witness/actions/workflows/ci.yml/badge.svg)](https://github.com/anzal1/witness/actions/workflows/ci.yml)
-[![release](https://img.shields.io/github/v/release/anzal1/witness)](https://github.com/anzal1/witness/releases)
+[![ci](https://github.com/halleylabs/witness/actions/workflows/ci.yml/badge.svg)](https://github.com/halleylabs/witness/actions/workflows/ci.yml)
+[![release](https://img.shields.io/github/v/release/halleylabs/witness)](https://github.com/halleylabs/witness/releases)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ![witness demo: 803ms cache miss, 541µs hit, 403 capability denial, Merkle commit, audit with agent attribution](assets/demo.gif)

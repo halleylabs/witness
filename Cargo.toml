@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 description = "A provenance-native caching proxy for model APIs: signed identities, hash-chained journal, content-addressed cache, deterministic replay, Merkle commitments."
 license = "MIT"
+repository = "https://github.com/halleylabs/witness"
+homepage = "https://github.com/halleylabs/witness"
 
 [dependencies]
 tokio = { version = "1", features = ["rt-multi-thread", "macros", "signal", "sync", "fs", "io-util", "io-std", "process"] }
